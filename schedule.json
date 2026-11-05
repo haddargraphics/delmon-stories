@@ -1,0 +1,187 @@
+{
+ "account": "@delmonwater",
+ "ig_user_id": "38935316799447934",
+ "composio_account": "instagram_alo-quin",
+ "schedule": [
+  {
+   "date": "2026-11-06",
+   "time_bahrain": "20:00",
+   "file": "s01-10bottles-6.5bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-07",
+   "time_bahrain": "20:00",
+   "file": "s07-30bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-08",
+   "time_bahrain": "20:00",
+   "file": "s04-zenet-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-09",
+   "time_bahrain": "20:00",
+   "file": "s03-40bottles-24bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-10",
+   "time_bahrain": "20:00",
+   "file": "s06-10bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-11",
+   "time_bahrain": "20:00",
+   "file": "s05-zenet2-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-12",
+   "time_bahrain": "20:00",
+   "file": "s02-30bottles-19bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-13",
+   "time_bahrain": "20:00",
+   "file": "s08-40bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-14",
+   "time_bahrain": "20:00",
+   "file": "s01-10bottles-6.5bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-15",
+   "time_bahrain": "20:00",
+   "file": "s07-30bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-16",
+   "time_bahrain": "20:00",
+   "file": "s04-zenet-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-17",
+   "time_bahrain": "20:00",
+   "file": "s03-40bottles-24bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-18",
+   "time_bahrain": "20:00",
+   "file": "s06-10bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-19",
+   "time_bahrain": "20:00",
+   "file": "s05-zenet2-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-20",
+   "time_bahrain": "20:00",
+   "file": "s02-30bottles-19bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-21",
+   "time_bahrain": "20:00",
+   "file": "s08-40bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-22",
+   "time_bahrain": "20:00",
+   "file": "s01-10bottles-6.5bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-23",
+   "time_bahrain": "20:00",
+   "file": "s07-30bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-24",
+   "time_bahrain": "20:00",
+   "file": "s04-zenet-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-25",
+   "time_bahrain": "20:00",
+   "file": "s03-40bottles-24bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-26",
+   "time_bahrain": "20:00",
+   "file": "s06-10bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-27",
+   "time_bahrain": "20:00",
+   "file": "s05-zenet2-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-28",
+   "time_bahrain": "20:00",
+   "file": "s02-30bottles-19bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-11-29",
+   "time_bahrain": "20:00",
+   "file": "s08-40bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-11-30",
+   "time_bahrain": "20:00",
+   "file": "s01-10bottles-6.5bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-12-01",
+   "time_bahrain": "20:00",
+   "file": "s07-30bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-12-02",
+   "time_bahrain": "20:00",
+   "file": "s04-zenet-45bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-12-03",
+   "time_bahrain": "20:00",
+   "file": "s03-40bottles-24bd.jpg",
+   "type": "IMAGE"
+  },
+  {
+   "date": "2026-12-04",
+   "time_bahrain": "20:00",
+   "file": "s06-10bottles-video.mp4",
+   "type": "VIDEO"
+  },
+  {
+   "date": "2026-12-05",
+   "time_bahrain": "20:00",
+   "file": "s05-zenet2-45bd.jpg",
+   "type": "IMAGE"
+  }
+ ]
+}
